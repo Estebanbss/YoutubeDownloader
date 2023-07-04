@@ -35,7 +35,7 @@ Note: This application uses the PyTube library under the hood to interact with Y
 
 1. Run the application by executing the following command:
    ```python
-   python YouTubeDownloader.py
+   python main.py
    ```
 
 2. Enter the URL of the video you want to download or convert.
