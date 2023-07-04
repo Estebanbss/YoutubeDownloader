@@ -1,5 +1,4 @@
 from customtkinter import CTk, CTkFrame,CTkEntry,CTkButton
-
 class GUI:
     def __init__(self, root):
 
