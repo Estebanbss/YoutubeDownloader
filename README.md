@@ -16,7 +16,7 @@ Note: This application uses the PyTube library under the hood to interact with Y
 - Choose your preferred audio and video settings
 
 ## Download
-- 🟢 **[Latest Version](https://github.com/Johanstphn/YoutubeDownloader/releases)**
+- 🟢 **[Latest Version](https://github.com/Johanstphn/YoutubeDownloader/releases)** (soon)
 
 ## Installation in Python
 
