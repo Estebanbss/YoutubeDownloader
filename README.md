@@ -48,7 +48,7 @@ Note: This application uses the PyTube library under the hood to interact with Y
 
 6. The downloaded video or converted MP3 file will be saved to your local directory.
 
-##Contributing
+## Contributing
 
 Contributions to YouTubeDownloader are welcome! If you have any ideas, suggestions, or bug reports, please open an issue on the GitHub repository.
 
