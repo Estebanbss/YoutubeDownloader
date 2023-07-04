@@ -1,4 +1,3 @@
-from sqlite3 import Row
 from customtkinter import CTk, CTkFrame,CTkEntry,CTkButton
 
 class GUI:
