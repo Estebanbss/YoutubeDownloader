@@ -34,19 +34,19 @@ Note: This application uses the PyTube library under the hood to interact with Y
 ## Usage
 
 1. Run the application by executing the following command:
-  ```python
+   ```python
    python YouTubeDownloader.py
-  ```
+   ```
 
-2.Enter the URL of the video you want to download or convert.
+2. Enter the URL of the video you want to download or convert.
+   
+3. Choose the desired audio and video quality options.
 
-3.Choose the desired audio and video quality options.
+4. Select whether you want to download the video or convert it to MP3 format.
 
-4.Select whether you want to download the video or convert it to MP3 format.
+5. Select the folder where the media file will be downloaded
 
-5.Select the folder where the media file will be downloaded
-
-6.The downloaded video or converted MP3 file will be saved to your local directory.
+6. The downloaded video or converted MP3 file will be saved to your local directory.
 
 ##Contributing
 
